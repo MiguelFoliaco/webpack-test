@@ -1,0 +1,13 @@
+* {
+    color: white;
+}
+
+body {
+    background-color: #1e1e1e;
+}
+
+.div {
+    background-color: #161616;
+    box-shadow: 1px solid rgba(255, 255, 255, 0.3);
+    color:#00FF88
+}
